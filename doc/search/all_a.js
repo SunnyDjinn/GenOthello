@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['magenta_5fboard',['MAGENTA_BOARD',['../graphics_8h.html#a174e20b47f5c207d22e6ed4b3cad8a71',1,'graphics.h']]],
+  ['magenta_5ftext',['MAGENTA_TEXT',['../graphics_8h.html#ae841e02c40ae502e3e72c0c02c006ff7',1,'graphics.h']]],
+  ['main',['main',['../main_8c.html#a840291bc02cba5474a4cb46a9b9566fe',1,'main(void):&#160;main.c'],['../main_8h.html#a840291bc02cba5474a4cb46a9b9566fe',1,'main(void):&#160;main.c']]],
+  ['main_2ec',['main.c',['../main_8c.html',1,'']]],
+  ['main_2eh',['main.h',['../main_8h.html',1,'']]],
+  ['max_5fcase',['MAX_CASE',['../constants_8h.html#a122b70c85e6a11fc8f6c5406347969e0',1,'constants.h']]],
+  ['max_5fcoef',['MAX_COEF',['../constants_8h.html#aedac08b0ebac13e1c539527f43d5216a',1,'constants.h']]],
+  ['max_5fdim',['MAX_DIM',['../constants_8h.html#a7ba3949b1f197baf0354d41124bdbe88',1,'constants.h']]],
+  ['max_5ffile_5fname',['MAX_FILE_NAME',['../constants_8h.html#af43dedece15d018ffad8970492870bac',1,'constants.h']]],
+  ['max_5fflip',['MAX_FLIP',['../constants_8h.html#ab15d41e76476c5526f79005c331c76cd',1,'constants.h']]],
+  ['max_5fline',['MAX_LINE',['../constants_8h.html#a842ed03f27719bc87666bfd1f75415b8',1,'constants.h']]],
+  ['max_5fmove',['MAX_MOVE',['../constants_8h.html#a9072629775495e1a02d0b15851642504',1,'constants.h']]],
+  ['max_5fname',['MAX_NAME',['../constants_8h.html#ac7c0207aa5a0e10d378be03b68041350',1,'constants.h']]],
+  ['middle_5fgame',['MIDDLE_GAME',['../constants_8h.html#afc5831e1b696a7dc0d94cd2ec3eda1ed',1,'constants.h']]],
+  ['min_5fmax',['min_max',['../ai_8c.html#a86d691a583a261fa8bca04fc9d44ca26',1,'min_max(short maximize, Game *game, short playerAi, short depth, short height, short alpha, short beta, float coefs[]):&#160;ai.c'],['../ai_8h.html#a86d691a583a261fa8bca04fc9d44ca26',1,'min_max(short maximize, Game *game, short playerAi, short depth, short height, short alpha, short beta, float coefs[]):&#160;ai.c']]],
+  ['move',['Move',['../struct_move.html',1,'']]],
+  ['move_2ec',['move.c',['../move_8c.html',1,'']]],
+  ['move_2eh',['move.h',['../move_8h.html',1,'']]],
+  ['move_5fprocessing',['move_processing',['../move_8c.html#a51a1b9bff531065b4030381023a2f4fa',1,'move_processing(Game *game, const char *coordinates, short intCoord):&#160;move.c'],['../move_8h.html#a51a1b9bff531065b4030381023a2f4fa',1,'move_processing(Game *game, const char *coordinates, short intCoord):&#160;move.c']]],
+  ['moves',['moves',['../struct_game.html#ae9d8beb39423f8dad2546f585b41ab00',1,'Game']]],
+  ['movescursor',['movesCursor',['../struct_game.html#a21409f4ef607bdcecb42a642638d40db',1,'Game']]],
+  ['mut_5ffactor',['MUT_FACTOR',['../constants_8h.html#a6fb13f915ec7b99c8d1346b0e645c97c',1,'constants.h']]],
+  ['mutation',['mutation',['../genetic_8c.html#ab56605601f7011faa04fcb159c943069',1,'mutation(Population *next, short genomeToMutate):&#160;genetic.c'],['../genetic_8h.html#ab56605601f7011faa04fcb159c943069',1,'mutation(Population *next, short genomeToMutate):&#160;genetic.c']]]
+];
