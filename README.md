@@ -7,3 +7,6 @@ make clean to remove .o files and executable.
 ./othello to run.
 
 Everything about the game is explained when you run it, enjoy :)
+
+
+PS: the program is in french right now, english version will be released - one day
